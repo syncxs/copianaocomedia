@@ -1,6 +1,6 @@
 return {
     "kawaiiiiiyd",
-    "abc",
-    "abc",
-    "aaa" -- Adicione aqui
+    "abcd",
+    "abcd",
+    "abcd" -- Adicione aqui
 }
