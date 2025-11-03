@@ -3,7 +3,7 @@
 -- ════════════════════════════════════════════════════════════
 
 return {
-    "test",
+    "kawaiiiiiyd",
     -- Adicione novos usuários abaixo
     -- "novoUsuario1",
     -- "novoUsuario2",
