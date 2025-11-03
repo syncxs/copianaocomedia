@@ -1,6 +1,10 @@
+-- ════════════════════════════════════════════════════════════
+-- WHITELIST - Lista de Usuários Autorizados
+-- ════════════════════════════════════════════════════════════
+
 return {
     "kawaiiiiiyd",
-    "abcd",
-    "abcd",
-    "abcd" -- Adicione aqui
+    -- Adicione novos usuários abaixo
+    -- "novoUsuario1",
+    -- "novoUsuario2",
 }
