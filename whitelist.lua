@@ -1,5 +1,5 @@
 return {
-    "abcd",
+    "kawaiiiiiyd",
     "abcd",
     "abcd",
     "abcd" -- Adicione aqui
